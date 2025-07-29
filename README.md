@@ -51,3 +51,5 @@ Output:
 Detected missing security headers, reflected inputs, CORS misconfigurations.
 
 Verified actual exploitability of flagged issues with the development team to get their opinion and analyze the issue.
+
+
