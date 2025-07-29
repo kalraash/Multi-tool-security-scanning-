@@ -1,0 +1,14 @@
+4. OWASP ZAP – Dynamic Application Security Testing (DAST)
+Scope: Performed runtime analysis of the desktop app’s web components (if exposed via a local server or webview).
+
+Execution:
+
+Local instance or CI container deployed with test environment.
+
+Active scanning used to simulate attacker behavior (XSS, SQLi, etc.).
+
+Output:
+
+Detected missing security headers, reflected inputs, CORS misconfigurations.
+
+Verified actual exploitability of previously flagged issues.
